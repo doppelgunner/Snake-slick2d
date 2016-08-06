@@ -1,5 +1,5 @@
 # Snake-slick2d
-A clone of snake game
+A clone of snake game using slick2d
 
 * [Youtube Demo](https://www.youtube.com/watch?v=OgCG7dQm3z4)
 * [Dropbox downloadable game demo](https://www.dropbox.com/sh/8847w7lkrklgipp/AABzrcACUNwBkOBl9FAanzV-a?dl=0) 
