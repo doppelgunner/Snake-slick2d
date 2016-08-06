@@ -17,3 +17,4 @@ A clone of snake game using slick2d
   * [google+](https://plus.google.com/u/0/111975005561843752356/posts)
   * [facebook](https://www.facebook.com/doppelgunner)
   * [youtube](https://www.youtube.com/channel/UCjd_DY1LawVuZuLteDbVabQ)
+  * [github](https://github.com/doppelgunner)
